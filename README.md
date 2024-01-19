@@ -7,5 +7,5 @@ This repository contains files for CE-Intro-1402 event designs. To access the ra
 * __Aparat: [@CE_Intro](https://www.aparat.com/CE_intro).__
 ## Designers
 * __Moeein Aali__
-* * __Mohammad Moasayebi__
+* __Mohammad Moasayebi__
 * __Saeed Forati Kashani__
