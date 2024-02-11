@@ -7,3 +7,7 @@ For using this code you must first download and install Go.
 4. For password, you must create an app password in Gmail or Yahoo.
 5. You can set your subject in line 32 of `main.go`
 
+
+## Maintainer
+
+* __Farzam Koohi__
